@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background: #050a17;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.app {
+    text-align: center;
+    width: 300px;
+}
+input, button {
+    width: 100%;
+    margin: 5px 0;
+    padding: 10px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    max-height: 150px;
+    overflow-y: auto;
+}
