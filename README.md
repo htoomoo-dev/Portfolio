@@ -14,8 +14,8 @@ I'm a passionate developer focused on building efficient and creative software s
 
 ## 📫 Let's Connect
 - 🌍 [My Portfolio](https://yourwebsite.com) <!-- (replace with real site) -->
-- 📧 Email: yourname@example.com
-- 🐙 GitHub: [htoomoo](https://github.com/htoomoo)
+- 📧 Email: htoomook@gmail.com
+- 🐙 GitHub: [htoomoo](https://github.com/htoomoo-dev)
 
 ---
 
